@@ -1,6 +1,6 @@
 
 ### Getting Started
-CSV to JSON convertor
+##### CSV to JSON convertor
 This is a Node.js application which efficiently converts large CSV files into JSON format. It leverages streaming to process files without overloading the system and uses batch processing for quick database insertion into PostgreSQL. Ideal for managing extensive datasets with complex structures.
 
 
@@ -60,3 +60,24 @@ CSV_FILE_PATH=./path_to_your_csv_file.csv
 ```bash
 node app.js
 ```
+
+
+
+6. Screenshots
+   1.Query to display users
+   ![image](https://github.com/Dishi2003Jain/Kelp-global/assets/82431854/1c351163-7619-4d8f-88ed-cadf89098684)
+
+
+   ![image](https://github.com/Dishi2003Jain/Kelp-global/assets/82431854/222bc11a-e5ae-4731-a926-c1914a20d27a)
+
+   2.Console
+
+   ![image](https://github.com/Dishi2003Jain/Kelp-global/assets/82431854/8169a76a-c9b6-4a1a-9c71-23e9debaf7c3)
+
+   3.Postman
+
+   ![image](https://github.com/Dishi2003Jain/Kelp-global/assets/82431854/4094c7e7-1152-41f7-bf4e-7eacc957c9c0)
+
+   
+
+   
